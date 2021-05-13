@@ -1,6 +1,9 @@
 import sys
 import random
 
+myvar = MyClass()
+myvar()
+
 ans = True
 
 while ans:
